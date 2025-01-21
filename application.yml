@@ -1,0 +1,8 @@
+general:
+  kafka-topic: some_value
+
+spring:
+  kafka:
+    groupId: 1
+    producer:
+      list-topics: value1
